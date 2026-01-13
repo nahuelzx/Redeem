@@ -1,0 +1,14 @@
+name: Redeem
+main: nahu\redeem\Main
+version: 3.0.0
+api: 5.0.0
+author: nahuelzx
+website: https://github.com/nahuelzx
+
+permissions:
+  redeem.command:
+    default: true
+  redeem.create:
+    default: op
+  redeem.edit:
+    default: op
