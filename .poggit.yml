@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/nahuelzx/Redeem
+build-by-default: true
+branches:
+- main
+projects:
+  Redeem:
+    path: ""
+...
